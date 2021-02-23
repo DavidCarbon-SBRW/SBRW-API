@@ -1,0 +1,6 @@
+APEX Open Beta;http://35.231.1.165/soapbox-race-core/Engine.svc
+World Online PL;http://145.239.5.103:8680/soapbox-race-core/Engine.svc
+World Evolved V2;http://185.125.231.50:8680/soapbox-race-core/Engine.svc
+The World Is Ours;http://54.37.72.198:8680/soapbox-race-core/Engine.svc
+HUE Racers;http://200.98.139.241:8680/soapbox-race-core/Engine.svc
+NightRiderz;http://play.nightriderz.world:8680/soapbox-race-core/Engine.svc
