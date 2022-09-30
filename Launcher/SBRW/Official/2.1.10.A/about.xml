@@ -1,0 +1,17 @@
+<node> 
+	<patch> 
+		<title>Contributors</title> 
+		<desc>- MeTonaTOR\n- LeoCodes21\n- Zacam\n- DavidCarbon\n- redbluescreen\n- RedTheKitsune\n- GitMensch\n- SPEED0U\n- AbelianKraun\n- paziu</desc>
+		<link>https://github.com/SoapboxRaceWorld/GameLauncher_NFSW</link> 
+	</patch> 
+	<patch> 
+		<title>Core Files</title> 
+		<desc>- CommandLineParser\n- DiscordRichPresence\n- Flurl\n- ini-parser\n- Nancy\n- Newtonsoft.Json</desc> 
+		<link>https://davidcarbon-sbrw.github.io/License/Launcher/SBRW/Official/2.1.10.A</link>
+	</patch> 
+	<patch> 
+		<title>Project Site</title> 
+		<desc></desc> 
+		<link>https://soapboxrace.world</link>
+	</patch> 
+</node>
