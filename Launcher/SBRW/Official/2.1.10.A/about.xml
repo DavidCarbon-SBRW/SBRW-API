@@ -6,7 +6,7 @@
 	</patch> 
 	<patch> 
 		<title>Core Files</title> 
-		<desc>- CommandLineParser\n- DiscordRichPresence\n- Flurl\n- ini-parser\n- Nancy\n- Newtonsoft.Json</desc> 
+		<desc>- DiscordRichPresence\n- Flurl\n- ini-parser\n- Nancy\n- Newtonsoft.Json\n- Vanara</desc> 
 		<link>https://davidcarbon-sbrw.github.io/License/Launcher/SBRW/Official/2.1.10.A</link>
 	</patch> 
 	<patch> 
